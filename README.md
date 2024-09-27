@@ -26,6 +26,14 @@
 
 `npx playwright test --project=chromium --headed`
 
+Available projects:
+
+- chromium
+- firefox
+- webkit
+- mobile-chrome
+- mobile-safari
+
 ## Run API tests
 
 `npx playwright test --project=api`
